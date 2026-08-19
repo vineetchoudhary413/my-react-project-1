@@ -1,0 +1,27 @@
+.category-card {
+  background-color: #ffffff;
+  border: 1px solid #e5e5e5;
+  border-radius: 8px;
+  padding: 24px;
+}
+
+.category-card-icon {
+  font-size: 28px;
+  margin-bottom: 12px;
+}
+
+.category-card-title {
+  font-size: 17px;
+  margin-bottom: 12px;
+}
+
+.category-card-description {
+  font-size: 14px;
+  color: #6b6b6b;
+  margin-bottom: 24px;
+}
+
+.category-card-count {
+  font-size: 13px;
+  color: #6b6b6b;
+}
